@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34144608/README.md)
+
 یه پروژه تمرینی برای آموزش
 
 class
